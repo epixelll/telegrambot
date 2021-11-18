@@ -189,5 +189,6 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+**/target/
 
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij+all,helm,go
