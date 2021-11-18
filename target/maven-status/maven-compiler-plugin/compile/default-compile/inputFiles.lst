@@ -1,0 +1,17 @@
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/exception/FailedSendMessageException.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/AikaDemoApplication.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/model/MessageEdit.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/service/NotificationConfigService.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/service/CrossBotUserService.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/model/AuthenticationInfo.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/impl/RepeatTelegramBot.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/TelegramBot.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/config/TelegramBotConfig.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/impl/HelloTelegramBot.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/impl/LazyTelegramBot.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/service/RepeatBotUserService.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/impl/TelegramBotBase.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/bot/impl/CrazyTelegramBot.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/model/InlineQuerySend.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/enums/MessageType.java
+/home/erlan/projects/aika-demo/src/main/java/kg/aika/demo/model/MessageSend.java
